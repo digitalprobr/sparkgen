@@ -19,3 +19,5 @@ A world where anyone can participate in the token economy, regardless of technic
 Accessibility, Security, Innovation, Transparency, and Community-first thinking guide everything we do at SparkGen.
 
 Visits us today at https://sparkgen.org
+
+![Alt text](3.png)
